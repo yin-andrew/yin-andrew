@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 Hi 👋 My name is Andrew Yin
 ===========================
 I am a Full Stack Software Engineer with an interest in building impactful solutions 
-* 🌱 I’m currently learning more about Express and how I can use it to build a leaner backend
-* 🌍  I'm based in Palo Alto
-* 📫 I am currently seeking full time software engineering opportunities! 
+* 🌱 I'm currently learning more about Express and how I can use it to build a leaner backend
+* 🌍 I'm based in Palo Alto
+* 📫 I'm currently seeking full time software engineering opportunities! 
 
 * ✉️  You can contact me at [aaayin@gmail.com](mailto:aaayin@gmail.com)
 
