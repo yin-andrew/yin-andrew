@@ -1,29 +1,8 @@
-<!--
-### Hi there 👋
-
-I am a Full Stack Software Engineer with an interest in building impactful solutions. 
-- 🌱 I’m currently learning more about Express and how I can use it to build a leaner backend. 
-- 📫 I am currently seeking full time software engineering opportunities! [LinkedIn](https://www.linkedin.com/in/andrewyin16407/)
--->
-<!--
-**yin-andrew/yin-andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi 👋 My name is Andrew Yin
 ===========================
 I am a Full Stack Software Engineer with an interest in building impactful solutions 
-* 🌱 I'm currently learning more about Express and how I can use it to build a leaner backend
-* 🌍 I'm based in Palo Alto
+* 🌱 I'm currently learning more about Express and how I can use it to build a lean backend
+* 🌍 I'm based in the Bay Area
 * 📫 I'm currently seeking full time software engineering opportunities! 
 
 * ✉️  You can contact me at [aaayin@gmail.com](mailto:aaayin@gmail.com)
